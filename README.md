@@ -1,4 +1,4 @@
-# # Sporty Shoes an E-Commerce Application
+# Sporty Shoes an E-Commerce Application
 
 ## Project Details
 This Project aim's to develop an E-Commerce Application where we sell the shoes and keep a track on purchase reports of all the customers using Spring Boot.
